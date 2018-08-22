@@ -144,7 +144,7 @@
 
     width: 30px;
     height: 30px;
-    margin: 0 5px;
+    margin: 0;
     padding: 0;
 
     cursor: pointer;
@@ -180,7 +180,7 @@
 .slick-dots li button:before
 {
     font-family: 'slick';
-    font-size: 20px;
+    font-size: 18px;
     line-height: 30px;
 
     position: absolute;
